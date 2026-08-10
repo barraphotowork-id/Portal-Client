@@ -8,5 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Barra Photowork",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyBvZ4C9UmsnH85cVuGQL6MX0V1CSapdb-I"
+    googleApiKey: "AIzaSyBvZ4C9UmsnH85cVuGQL6MX0V1CSapdb-I",
+    WhatsAppAdmin: "6285314729292"
 };
